@@ -1,6 +1,6 @@
 # Himanshu Pachpute
 
-## CAD Automation Engineer | Creo Customization | C++ Developer
+## Mechanical Engineer | CAD Automation Engineer | Creo Customization | C++ Developer
 
 I build automation solutions inside Creo that eliminate repetitive design work and enforce engineering logic at scale.
 
@@ -44,7 +44,7 @@ If it saves engineers hours of manual effort, I’m interested.
 ## Experience Snapshot
 
 ### SLB  
-**CAD Automation Engineer**
+**Mechanical Engineer - Delivery (CAD Automation)**
 
 - Developing automation solutions for drilling tool design workflows  
 - Building custom export tools and geometry driven applications  
