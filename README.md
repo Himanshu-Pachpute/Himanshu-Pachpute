@@ -4,19 +4,19 @@
 
 I build automation solutions inside Creo that eliminate repetitive design work and enforce engineering logic at scale.
 
-Currently at **SLB**, previously at **Tata Technologies (onsite at Tata Motors)**, working on CAD customization, design rule automation, and toolkit-based applications.
+Currently at **SLB**, previously at **Tata Technologies (onsite at Tata Motors)**, working on CAD customization(Creo) and ProToolkit based applications.
 
-I enjoy solving geometry-heavy problems, writing clean C++ code, and turning complex engineering workflows into structured automation systems.
+I enjoy solving geometry heavy problems, writing clean C++ code, and turning complex engineering workflows into structured automation systems.
 
 ---
 
 ## What I Do
 
 - Creo Customization using **C++ / ProToolkit / Web.Link**
-- CAD Automation & Design Rule Enforcement
+- CAD Automation
 - Internal Tool Development for Engineering Teams
 - Excel & Workflow Automation
-- Geometry-driven logic implementation
+- Geometry driven logic implementation
 
 If it saves engineers hours of manual effort, I’m interested.
 
@@ -47,7 +47,7 @@ If it saves engineers hours of manual effort, I’m interested.
 **CAD Automation Engineer**
 
 - Developing automation solutions for drilling tool design workflows  
-- Building custom export tools and geometry-driven applications  
+- Building custom export tools and geometry driven applications  
 
 ### Tata Technologies (Client: Tata Motors)  
 **Solutions Developer**
