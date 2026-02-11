@@ -6,6 +6,8 @@ Building automation solutions inside Creo that eliminate repetitive design work 
 
 Currently: **SLB** | Previously: **Tata Technologies** (onsite at Tata Motors)
 
+🔗 [Portfolio & Resume](https://himanshu-pachpute.github.io/)
+
 ---
 
 ## Overview
@@ -98,6 +100,7 @@ If it saves engineers hours of manual effort, I'm interested.
 
 ## Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://himanshu-pachpute.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshupachpute)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:himanshupachpute@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/himanshu.31)
